@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "title": "JavaScript for Babies",
+      "author": "Sterling Children's",
+      "releaseYear": "2016",
+      "genre": "programming, technology",
+      "coverImage": "https://pbs.twimg.com/media/C8DxW7dXUAAv-Mj.jpg",
+      "synopsis": "Coding and web-design skills are becoming more and more important in our technological world. These concept books will familiarize young ones with the kind of shapes and colors that make up web-based programming language and give them the head start they need.",
+      "id": 1
+    },
+    {
+      "title": "JavaScript: The Good Parts",
+      "author": "Douglas Crockford",
+      "releaseYear": "2008",
+      "genre": "programming",
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/I/5131OWtQRaL._SX381_BO1,204,203,200_.jpg",
+      "synopsis": "Most programming languages contain good and bad parts, but JavaScript has more than its share of the bad, having been developed and released in a hurry before it could be refined. This authoritative book scrapes away these bad features to reveal a subset of JavaScript that's more reliable, readable, and maintainable than the language as a whole—a subset you can use to create truly extensible and efficient code.",
+      "id": 2
+    }
+  ]
+}
